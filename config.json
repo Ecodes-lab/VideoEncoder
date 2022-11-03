@@ -1,0 +1,10 @@
+{
+  "dirs": {
+    "[FILE_PATH]": {
+      "height": [1080, 720, 480, 240],
+      "width": [1920, 1280, 854, 426]
+    }
+  },
+  "stored_videos_dir": "/root/videos",
+  "stored_images_dir": "/root/images"
+}
